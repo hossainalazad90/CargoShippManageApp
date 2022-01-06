@@ -24,7 +24,7 @@ namespace cargoshipWFAApp
         int MCycleNo = 0;
         int TrainCarNo = 0;
         int TruckNo = 0;
-        int panelSize = 100;
+        int panelSize = 239;
         private void FillBoatForm_Load(object sender, EventArgs e)
         {
             CargoBodytextBox.Text = GetCapacityInfo();

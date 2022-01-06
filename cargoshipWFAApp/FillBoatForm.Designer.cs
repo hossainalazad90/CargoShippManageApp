@@ -61,7 +61,7 @@
             // MotoCycletrackBar
             // 
             this.MotoCycletrackBar.Location = new System.Drawing.Point(53, 339);
-            this.MotoCycletrackBar.Maximum = 60;
+            this.MotoCycletrackBar.Maximum = 80;
             this.MotoCycletrackBar.Name = "MotoCycletrackBar";
             this.MotoCycletrackBar.Size = new System.Drawing.Size(380, 45);
             this.MotoCycletrackBar.TabIndex = 1;
@@ -70,7 +70,7 @@
             // TruckTrackBar
             // 
             this.TruckTrackBar.Location = new System.Drawing.Point(439, 338);
-            this.TruckTrackBar.Maximum = 20;
+            this.TruckTrackBar.Maximum = 50;
             this.TruckTrackBar.Name = "TruckTrackBar";
             this.TruckTrackBar.Size = new System.Drawing.Size(382, 45);
             this.TruckTrackBar.TabIndex = 1;
@@ -79,7 +79,7 @@
             // CarTrackBar
             // 
             this.CarTrackBar.Location = new System.Drawing.Point(53, 412);
-            this.CarTrackBar.Maximum = 30;
+            this.CarTrackBar.Maximum = 80;
             this.CarTrackBar.Name = "CarTrackBar";
             this.CarTrackBar.Size = new System.Drawing.Size(380, 45);
             this.CarTrackBar.TabIndex = 1;
@@ -88,7 +88,7 @@
             // TrainCarTrackBar
             // 
             this.TrainCarTrackBar.Location = new System.Drawing.Point(439, 411);
-            this.TrainCarTrackBar.Maximum = 30;
+            this.TrainCarTrackBar.Maximum = 40;
             this.TrainCarTrackBar.Name = "TrainCarTrackBar";
             this.TrainCarTrackBar.Size = new System.Drawing.Size(382, 45);
             this.TrainCarTrackBar.TabIndex = 1;
@@ -102,7 +102,6 @@
             this.CargoShipPictureBox.Size = new System.Drawing.Size(772, 311);
             this.CargoShipPictureBox.TabIndex = 2;
             this.CargoShipPictureBox.TabStop = false;
-            
             // 
             // cargoBodyLabel
             // 
